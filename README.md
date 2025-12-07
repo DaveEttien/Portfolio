@@ -9,9 +9,9 @@ Je suis étudiant en informatique à l'UQTR, spécialisé en développement logi
 
 ## Projets
 
-- Projet 1 : Application de gestion de tâches en Java.
-- Projet 2 : Site web personnel en HTML/CSS.
-- Projet 3 : Analyse UML de systèmes.
+- Projet 1 : - Projet C# (ASP.NET Core) -> Application de gestion de tâches .
+- Projet 2 : - Projet Java (Spring Boot) -> Application Jeu d'apprentissage de formule mathematique.
+- Projet 3 : - Projet Web (Node.js) -> Application de chat en temps reel.
 
 ## Contact
 
