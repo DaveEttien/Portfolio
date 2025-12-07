@@ -15,4 +15,4 @@ Je suis étudiant en informatique à l'UQTR, spécialisé en développement logi
 
 ## Contact
 
-Vous pouvez me contacter via [LinkedIn]([https://linkedin.com/in/daveettien]) ou par email à daveettienolwyneby@gmail.com.
+Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/dave-ettien-aa023b300/) ou par email à daveettienolwyneby@gmail.com.
