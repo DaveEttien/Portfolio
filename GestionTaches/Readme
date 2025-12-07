@@ -1,0 +1,52 @@
+# Gestion de tâches
+
+##  Description
+Application de gestion de tâches permettant aux utilisateurs de créer, organiser et suivre leurs activités quotidiennes.  
+Le projet illustre les concepts de **CRUD**, la structuration d’un projet logiciel, et l’utilisation de bonnes pratiques de développement orienté objet.
+
+---
+
+##  Fonctionnalités principales
+-  Créer, lire, mettre à jour et supprimer des tâches (CRUD).  
+-  Associer une **priorité** et un **statut** (à faire, en cours, terminé).  
+-  Filtrer et rechercher des tâches par mot-clé ou par état.  
+- Interface simple et intuitive (console ou web selon l’implémentation).  
+- Persistance des données (fichier JSON, base de données ou API REST selon la version).  
+
+---
+
+##  Structure du projet
+```
+```
+
+---
+
+##  Modèle du domaine (simplifié UML)
+```
+
+
+```
+
+---
+
+##  Technologies utilisées
+
+---
+
+##  Installation et exécution
+
+
+##  Tests
+
+
+---
+
+##  Roadmap
+
+---
+
+## Auteurs
+- Dave Ettien
+
+
+
