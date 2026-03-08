@@ -10,10 +10,10 @@ Je suis étudiant en informatique à l'UQTR, spécialisé en développement logi
 ## Projets
 
 Projet 1 (Java): Application de gestions de motos
-      Developpement d'une application de gestion d'inventaire de motos en java avec interface graphique utilisant JavaFx
-      .Conception orientée objet avec modelisation des entités et gestion des données via collections dynamique
-      .Developpement d'une interface graphique permettant  l'ajout, la modification, la suppression et la consultation de moto
-      .Implementation d'un systeme de recherche, tri, et filtrage selon  plusieurs critere
+      Developpement d'une application de gestion d'inventaire de motos en java avec interface graphique utilisant JavaFx</br>
+      .Conception orientée objet avec modelisation des entités et gestion des données via collections dynamique</br>
+      .Developpement d'une interface graphique permettant  l'ajout, la modification, la suppression et la consultation de moto</br>
+      .Implementation d'un systeme de recherche, tri, et filtrage selon  plusieurs critere</br>
       .Organisation du projet selon une architecture MVC (Model-View-Controller) afin de separer la logique metier, l'interface et  le controlle de données
 ## Contact
 
