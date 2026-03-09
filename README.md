@@ -10,7 +10,7 @@ Je suis étudiant en informatique à l'UQTR, spécialisé en développement logi
 ## Projets
 
 ### Projet 1 (Java):Application de gestions de motos
-AObjectif du projet:  
+Objectif du projet:  
 Ce projet a été réalisé pour pratiquer la programmation orientée objet en Java ainsi que la structuration d’une application en plusieurs couches (modèle, service, interface).  
 Fonctionnalités  
 L’application permet de :  
