@@ -37,7 +37,7 @@ Ce projet fait partie de mon apprentissage en développement logiciel. Il m’a 
 
 Évolution du projet  
 Une future version du projet pourrait inclure :  
-      - une interface graphique avec JavaFX
+      - une interface graphique avec JavaFX  
       - la sauvegarde des données dans un fichier ou une base de données  
       
 ## Contact
