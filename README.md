@@ -42,4 +42,4 @@ Une future version du projet pourrait inclure :
       
 ## Contact
 
-Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/dave-ettien-aa023b300/) ou par email à daveettienolwyneby@gmail.com.
+Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/dave-olwyn-eby-ettien-aa023b300/) ou par email à daveettienolwyneby@gmail.com.
