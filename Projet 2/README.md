@@ -80,5 +80,12 @@ Lors du développement, plusieurs erreurs critiques ont été identifiées :
 
 ---
 
-## 📂 Structure du projet
+## Structure du projet
+Projet 2/
+│
+├── src/ # Code source
+├── texte/ # Fichiers de transactions
+├── Programme/ #Fichiers olc3
+├── Makefile # Compilation
+├── Doc/ # Fichier pdf(rapport)
 
