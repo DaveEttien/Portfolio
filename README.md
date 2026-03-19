@@ -40,7 +40,7 @@ Une future version du projet pourrait inclure :
       - une interface graphique avec JavaFX  
       - la sauvegarde des données dans un fichier ou une base de données  
 
-### Projet 2 (C): Gestion de Machines Virtuelles (VMS)
+### Projet 2 (C): Gestion de Machines Virtuelles (VMS)  
      Ce projet implémente un système de gestion de machines virtuelles capable d’exécuter des programmes LC‑3.
 Il met en pratique des concepts clés des systèmes d’exploitation :  
       - Gestion mémoire en C  
