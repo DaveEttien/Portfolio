@@ -69,7 +69,6 @@ Ce TP permet de maîtriser :
       - le débogage d’un système complexe    
       
 Améliorations possibles  
-
       - interface graphique pour visualiser les VM  
       - logs avancés  
       - gestion multi‑clients  
