@@ -5,7 +5,6 @@ import java.util.List;
 import java.util.ArrayList;
 
 /*
- * Auteurs : Chaiwat Aikaew, Alexandre Boisvert, Emerick Chassé, Dave-Olwyn Eby Ettien, Amadou Tidiane Sall
  * Description :  Un programme permettant de gérer des motos, offrant des fonctionnalités dédiées à la 
  * gestion des marques, modèles, kilométrage, ainsi que des options pour manipuler les motos au sein d'un gestionnaire
  */
