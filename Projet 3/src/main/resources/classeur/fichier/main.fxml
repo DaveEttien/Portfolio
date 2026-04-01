@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox spacing="10"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="classeur.fichier.MainController">
+
+    <Label text="Auto File Sorter" />
+
+    <HBox spacing="10">
+        <TextField fx:id="folderField" prefWidth="300"/>
+        <Button text="Choisir" onAction="#chooseFolder"/>
+    </HBox>
+
+    <HBox spacing="10">
+        <Button text="Démarrer" onAction="#startWatching"/>
+        <Button text="Arrêter" onAction="#stopWatching"/>
+    </HBox>
+
+    <ListView fx:id="logList"/>
+
+</VBox>
