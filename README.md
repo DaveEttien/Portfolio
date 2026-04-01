@@ -67,8 +67,12 @@ Implémentation d’un système capable d’exécuter des programmes LC-3, simul
 
 ##  Projets à venir
 
+<<<<<<< HEAD
 - Application Java avec interface graphique (Amelioration du gestionnaire de Moto)
 - Outil de classement automatique de fichiers telecharger
+=======
+- Application Java avec interface graphique  (Outil de classement automatique de fichiers telecharger)  
+>>>>>>> 9438beff3c52dd89dca1dcb03d71ef27ebd195d1
 
 ---
 
